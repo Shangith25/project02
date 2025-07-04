@@ -205,7 +205,7 @@ export default defineConfig((ctx) => {
       builder: {
         // https://www.electron.build/configuration/configuration
 
-        appId: 'project-2'
+        appId: 'kdj-test-1'
       }
     },
 

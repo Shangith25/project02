@@ -1,8 +1,8 @@
 {
-  "name": "project-2",
+  "name": "kdj-test-1",
   "version": "0.0.1",
-  "description": "My first Project",
-  "productName": "kdj test app 2",
+  "description": "Project 01",
+  "productName": "my first project",
   "author": "Shangith25 <skasunnethusuwi@gmail.com>",
   "type": "module",
   "private": true,
